@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans',
+    'Helvetica Neue', sans-serif;
+  background-color: #12171d; /* Deep charcoal blue */
+  color: #e0f2f1; /* Soft teal white */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', monospace;
+  background-color: #1e2a33; /* Dark slate for contrast */
+  color: #ffcb6b; /* Warm gold for code syntax */
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
